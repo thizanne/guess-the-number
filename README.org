@@ -1,0 +1,12 @@
+* Guess the number
+
+- First player enters a number
+- Second player tries to guess it
+- Computer tells if the secret number is greater or lesser than the
+  input
+- At the end, Computer tells the number of tries
+
+* Things to do
+
+- 1 player mode: randomly generate a number
+- 2 players mode: hide the chosen number
